@@ -1,0 +1,41 @@
+[33mcommit fc9b46953983505db36b7d72c04735d62ca51a50[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Angel <ang.amado@hotmail.es>
+Date:   Mon Oct 25 21:06:57 2021 +0200
+
+    utils.js with TODO
+
+[33mcommit 3b904b3b0361c84ff72d7094223fb164813a64d1[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mfeature-a[m[33m)[m
+Author: angel-amado <93152011+angel-amado@users.noreply.github.com>
+Date:   Mon Oct 25 20:49:51 2021 +0200
+
+    added package main
+
+[33mcommit 40d0ea95f3e4ddd65b73023ed2d9d5ae46c0d2e0[m
+Author: angel-amado <93152011+angel-amado@users.noreply.github.com>
+Date:   Mon Oct 25 20:44:31 2021 +0200
+
+    Create README.md
+
+[33mcommit 17b03fa8098aeb4139883dd3910317254d411898[m
+Author: Angel <ang.amado@hotmail.es>
+Date:   Mon Oct 25 20:21:42 2021 +0200
+
+    added main.go with empty main function
+
+[33mcommit 4dc8f0750b834a877ea826e2c65df48a7e689b0d[m
+Author: Angel <ang.amado@hotmail.es>
+Date:   Mon Oct 25 19:06:29 2021 +0200
+
+    added body {} in main.css
+
+[33mcommit 38bf0ed66ebb8e01d5cf06ed4951d4bedb116613[m
+Author: Angel <ang.amado@hotmail.es>
+Date:   Mon Oct 25 18:59:07 2021 +0200
+
+    added console.log
+
+[33mcommit 3dc9577866c55318e8c7c6255af11559181afe28[m
+Author: Angel <ang.amado@hotmail.es>
+Date:   Mon Oct 25 18:51:48 2021 +0200
+
+    bootstrap project
